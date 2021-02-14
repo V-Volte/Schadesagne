@@ -1,0 +1,560 @@
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.6.29) (preloaded format=xelatex 2020.9.10)  10 OCT 2020 00:36
+entering extended mode
+**"C:/Users/Sekhara Pramod/Documents/Epic/Schadesagne.tex"
+("C:/Users/Sekhara Pramod/Documents/Epic/Schadesagne.tex"
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-18> ("G:\New folder (2)\tex/latex/base\article.cl
+s"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+("G:\New folder (2)\tex/latex/base\size12.clo"
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count163
+\c@section=\count164
+\c@subsection=\count165
+\c@subsubsection=\count166
+\c@paragraph=\count167
+\c@subparagraph=\count168
+\c@figure=\count169
+\c@table=\count170
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+("G:\New folder (2)\tex/latex/base\fontenc.sty"
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 11
+2.
+
+("G:\New folder (2)\tex/latex/lm\t1lmr.fd"
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+("G:\New folder (2)\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) ("G:\New folder (2)\tex/latex/fontspec\fontspec.sty"
+("G:\New folder (2)\tex/latex/l3packages/xparse\xparse.sty"
+("G:\New folder (2)\tex/latex/l3kernel\expl3.sty"
+Package: expl3 2020-06-18 L3 programming layer (loader) 
+
+("G:\New folder (2)\tex/latex/l3backend\l3backend-xdvipdfmx.def"
+File: l3backend-xdvipdfmx.def 2020-06-29 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count171
+\l__pdf_internal_box=\box45
+\g__pdf_backend_object_int=\count172
+\g__pdf_backend_annotation_int=\count173
+))
+Package: xparse 2020-05-15 L3 Experimental document command parser
+
+("G:\New folder (2)\tex/latex/l3packages/xparse\xparse-generic.tex"
+\l__xparse_current_arg_int=\count174
+\g__xparse_grabber_int=\count175
+\l__xparse_m_args_int=\count176
+\l__xparse_v_nesting_int=\count177
+))
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+
+("G:\New folder (2)\tex/latex/fontspec\fontspec-xetex.sty"
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count178
+\l__fontspec_language_int=\count179
+\l__fontspec_strnum_int=\count180
+\l__fontspec_tmp_int=\count181
+\l__fontspec_tmpa_int=\count182
+\l__fontspec_tmpb_int=\count183
+\l__fontspec_tmpc_int=\count184
+\l__fontspec_em_int=\count185
+\l__fontspec_emdef_int=\count186
+\l__fontspec_strong_int=\count187
+\l__fontspec_strongdef_int=\count188
+\l__fontspec_tmpa_dim=\dimen135
+\l__fontspec_tmpb_dim=\dimen136
+\l__fontspec_tmpc_dim=\dimen137
+
+("G:\New folder (2)\tex/latex/base\fontenc.sty"
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+("G:\New folder (2)\tex/latex/fontspec\fontspec.cfg")))
+
+Package fontspec Info: Could not resolve font "EB Garamond/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Font family 'EBGaramond(0)' created for font 'EB
+(fontspec)             Garamond' with options [Ligatures=TeX,Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"EB
+(fontspec)             Garamond/OT:script=latn;language=dflt;mapping=tex-text;"
+
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"EB
+(fontspec)             Garamond/OT:script=latn;language=dflt;+smcp;mapping=tex-
+text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"EB
+(fontspec)             Garamond/I/OT:script=latn;language=dflt;mapping=tex-text
+;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: <->"EB
+(fontspec)             Garamond/I/OT:script=latn;language=dflt;+smcp;mapping=te
+x-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"EB
+(fontspec)             Garamond/BI/OT:script=latn;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"EB
+(fontspec)             Garamond/BI/OT:script=latn;language=dflt;+smcp;mapping=t
+ex-text;"
+
+
+("G:\New folder (2)\tex/latex/base\makeidx.sty"
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+("G:\New folder (2)\tex/latex/geometry\geometry.sty"
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+("G:\New folder (2)\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+("G:\New folder (2)\tex/generic/iftex\ifvtex.sty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+("G:\New folder (2)\tex/generic/iftex\iftex.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count189
+\Gm@cntv=\count190
+\c@Gm@tempcnt=\count191
+\Gm@bindingoffset=\dimen138
+\Gm@wd@mp=\dimen139
+\Gm@odd@mp=\dimen140
+\Gm@even@mp=\dimen141
+\Gm@layoutwidth=\dimen142
+\Gm@layoutheight=\dimen143
+\Gm@layouthoffset=\dimen144
+\Gm@layoutvoffset=\dimen145
+\Gm@dimlist=\toks18
+
+("G:\New folder (2)\tex/xelatex/xetexconfig\geometry.cfg"))
+("G:\New folder (2)\tex/latex/tools\multicol.sty"
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count192
+\mult@box=\box46
+\multicol@leftmargin=\dimen146
+\c@unbalance=\count193
+\c@collectmore=\count194
+\doublecol@number=\count195
+\multicoltolerance=\count196
+\multicolpretolerance=\count197
+\full@width=\dimen147
+\page@free=\dimen148
+\premulticols=\dimen149
+\postmulticols=\dimen150
+\multicolsep=\skip49
+\multicolbaselineskip=\skip50
+\partial@page=\box47
+\last@line=\box48
+\maxbalancingoverflow=\dimen151
+\mult@rightbox=\box49
+\mult@grightbox=\box50
+\mult@gfirstbox=\box51
+\mult@firstbox=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\c@minrows=\count198
+\c@columnbadness=\count199
+\c@finalcolumnbadness=\count266
+\last@try=\dimen152
+\multicolovershoot=\dimen153
+\multicolundershoot=\dimen154
+\mult@nat@firstbox=\box90
+\colbreak@box=\box91
+\mc@col@check@num=\count267
+)
+("G:\New folder (2)\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("G:\New folder (2)\tex/latex/mparhack\mparhack.sty"
+Package: mparhack 2005/04/17 v1.4 (T. Sgouros and S. Ulrich)
+)
+("G:\New folder (2)\tex/latex/fancyhdr\fancyhdr.sty"
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip51
+\f@nch@O@elh=\skip52
+\f@nch@O@erh=\skip53
+\f@nch@O@olh=\skip54
+\f@nch@O@orh=\skip55
+\f@nch@O@elf=\skip56
+\f@nch@O@erf=\skip57
+\f@nch@O@olf=\skip58
+\f@nch@O@orf=\skip59
+)
+("G:\New folder (2)\tex/latex/poemscol\poemscol.sty"
+Package: poemscol 2020/06/12 v3.141592 poemscol file
+\verseindentamount=\skip60
+\l@@pcounter=\count268
+\indentedstanzaamount=\skip61
+\variablestanzaamount=\skip62
+\titleindentamount=\skip63
+\titleindenttwoamount=\skip64
+\titleindentthreeamount=\skip65
+\volumetitleindentamount=\skip66
+\volumetitlesecondlineindentamount=\skip67
+\volumesubtitleindentamount=\skip68
+\volumesubtitlesecondlineindentamount=\skip69
+\volumesectiontitleindentamount=\skip70
+\volumesectiontitlesecondlineindentamount=\skip71
+\poemtitleindentamount=\skip72
+\poemtitlesecondlineindentamount=\skip73
+\poemsubtitleindentamount=\skip74
+\poemsectiontitleindentamount=\skip75
+\poemsectiontitlesecondlineindentamount=\skip76
+\poemsubsectiontitleindentamount=\skip77
+\sequencetitleindentamount=\skip78
+\sequencetitlesecondlineindentamount=\skip79
+\sequencesubtitleindentamount=\skip80
+\sequencesubtitlesecondlineindentamount=\skip81
+\sequencesectiontitleindentamount=\skip82
+\sequencesectiontitlesecondlineindentamount=\skip83
+\sequencesectionsubtitleindentamount=\skip84
+\sequencesectionsubtitlesecondlineindentamount=\skip85
+\sequencesubsectiontitleindentamount=\skip86
+\sequencesubsubsectiontitleindentamount=\skip87
+\appendixtitleindentamount=\skip88
+\subappendixtitleindentamount=\skip89
+\forewordtitleindentamount=\skip90
+\notestitleindentamount=\skip91
+\volumetitleshiftamount=\dimen155
+\voladditionalamount=\dimen156
+\contentsindentoneamount=\dimen157
+\contentsindenttwoamount=\dimen158
+\contentsindentthreeamount=\dimen159
+\contentsindentfouramount=\dimen160
+\contentsindentfiveamount=\dimen161
+\contentsvolumetitleindentamount=\skip92
+\contentsvolumetitlesecondlineindentamount=\skip93
+\contentsvolumesubtitleindentamount=\skip94
+\contentsvolumesubtitlesecondlineindentamount=\skip95
+\contentsvolumesectiontitleindentamount=\skip96
+\contentsvolumesectiontitlesecondlineindentamount=\skip97
+\contentspoemtitleindentamount=\skip98
+\contentspoemtitlesecondlineindentamount=\skip99
+\contentspoemsubtitleindentamount=\skip100
+\contentspoemsectiontitleindentamount=\skip101
+\contentspoemsectiontitlesecondlineindentamount=\skip102
+\contentspoemsubsectiontitleindentamount=\skip103
+\contentssequencetitleindentamount=\skip104
+\contentssequencetitlesecondlineindentamount=\skip105
+\contentssequencesubtitleindentamount=\skip106
+\contentssequencesubtitlesecondlineindentamount=\skip107
+\contentssequencesectiontitleindentamount=\skip108
+\contentssequencesectiontitlesecondlineindentamount=\skip109
+\contentssequencesectionsubtitleindentamount=\skip110
+\contentssequencesectionsubtitlesecondlineindentamount=\skip111
+\contentssequencesubsectiontitleindentamount=\skip112
+\contentssequencesubsubsectiontitleindentamount=\skip113
+\poemtitlewidth=\skip114
+\lefttitleaddition=\skip115
+\marginparsepmin=\skip116
+\versemarginadjust=\skip117
+\c@verselinenumber=\count269
+\c@printlineindex=\count270
+\c@verselinenumberscratch=\count271
+\c@printlineindexscratch=\count272
+\c@lineindexrepeat=\count273
+\c@lemmalines=\count274
+\c@lemmaend=\count275
+\c@poemnumber=\count276
+\c@notepageholdertitle=\count277
+\c@notepageholdernote=\count278
+\fulltitleholder=\toks19
+\titlesofar=\toks20
+\titleincrement=\toks21
+\@indexfile=\write3
+\openout3 = `Schadesagne.idx'.
+
+
+Writing index file Schadesagne.idx
+\headoffsetlength=\skip118
+
+Package Fancyhdr Warning: \fancyhfoffset's `E' option without twoside option is
+ useless on input line 489.
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 491.
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 493.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 494.
+
+\singlelineabbrev=\toks22
+\multiplelineabbrev=\toks23
+\singlepageabbrev=\toks24
+\multiplepageabbrev=\toks25
+\contentsentryoverrun=\skip119
+\titleentryoverrun=\skip120
+\versewidth=\skip121
+\@memcnta=\count279
+\c@cp@cntr=\count280
+\pmclsideparvshift=\skip122
+\pmclcontentsname=\toks26
+\pmclcontentsheader=\toks27
+\noteindentation=\skip123
+\pmclnotesname=\toks28
+\notesheadername=\toks29
+\textnotescontentsname=\toks30
+\emendationsname=\toks31
+\emendationsheadername=\toks32
+\emendationscontentsname=\toks33
+\explanationsname=\toks34
+\explanationsheadername=\toks35
+\explanationscontentsname=\toks36
+\lefttitlemargin=\skip124
+\JHtextwidth=\skip125
+\JHmarginparsep=\skip126
+\JHmarginparvshift=\skip127
+\JHmarginparwidth=\skip128
+\JHmarginparsepmin=\skip129
+\JHtitlemarginparsep=\skip130
+\c@margrefnumber=\count281
+\margrefmarker=\toks37
+\titlemargrefmarker=\toks38
+\centerepigraphindentation=\skip131
+\normalepigraphindentation=\skip132
+\dateindent=\skip133
+\poemattributionindent=\skip134
+\c@proselinenumber=\count282
+\c@prosemodulo=\count283
+\pmnoteheader=\toks39
+\c@pmsentencenumber=\count284
+\c@pmmodulo=\count285
+\c@pmindexcount=\count286
+\c@pmparagraph=\count287
+\pmrangeend=\toks40
+\pmclsavsk=\dimen162
+\pmclsavsf=\count288
+\c@rectolinecounter=\count289
+\c@rectoindexscratch=\count290
+\c@versolinecounter=\count291
+\c@versoindexscratch=\count292
+\versotitleholder=\toks41
+\rectotitleholder=\toks42
+\synchroflag=\toks43
+\versotextnotesname=\toks44
+\versotextnotesheadername=\toks45
+\versotextnotescontentsname=\toks46
+\rectotextnotesname=\toks47
+\rectotextnotesheadername=\toks48
+\rectotextnotescontentsname=\toks49
+\versoemendationsname=\toks50
+\versoemendationsheadername=\toks51
+\versoemendationscontentsname=\toks52
+\rectoemendationsname=\toks53
+\rectoemendationsheadername=\toks54
+\rectoemendationscontentsname=\toks55
+\versoexplanationsname=\toks56
+\versoexplanationsheadername=\toks57
+\versoexplanationscontentsname=\toks58
+\rectoexplanationsname=\toks59
+\rectoexplanationsheadername=\toks60
+\rectoexplanationscontentsname=\toks61
+\c@prosepage=\count293
+\c@versoproselinecounter=\count294
+\c@rectoproselinecounter=\count295
+\poemindexname=\toks62
+\poemindexheadername=\toks63
+\poemindexcontentsname=\toks64
+\poemindexlabelname=\toks65
+\epigraphquoteleftmargin=\skip135
+\epigraphquoterightmargin=\skip136
+)
+No file Schadesagne.aux.
+\openout1 = `Schadesagne.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
+4.
+("G:\New folder (2)\tex/latex/base\ts1cmr.fd"
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 24.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 24.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 24.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 24.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 24.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 24.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 24.
+LaTeX Font Info:    Redeclaring math accent \check on input line 24.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 24.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 24.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 24.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 24.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 24.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 24.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/EBGaramond(0)/m/n on input line 24.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 24.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/EBGaramond(0)/m/n on input line 24.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/EBGaramond(0)/m/n --> TU/EBGaramond(0)/m/n on input 
+line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/EBGaramond(0)/m/it on input line 24
+.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/EBGaramond(0)/b/n on input line 24.
+
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/EBGaramond(0)/m/n --> TU/EBGaramond(0)/b/n on input 
+line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/EBGaramond(0)/b/it on input line 2
+4.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 24.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 24.
+
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 426.79134pt, 85.35828pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79134pt
+* \textheight=591.5302pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-7.86334pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=18.0pt
+* \marginparsep=18.0pt
+* \columnsep=15.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 25.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 25.
+
+LaTeX Font Warning: Font shape `TU/EBGaramond(0)/b/n' undefined
+(Font)              using `TU/EBGaramond(0)/m/n' instead on input line 33.
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 71.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 14.49998pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[1
+
+] [2] [3
