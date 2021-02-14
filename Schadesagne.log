@@ -1,7 +1,7 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.6.29) (preloaded format=xelatex 2020.9.10)  10 OCT 2020 00:36
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 20.6.29) (preloaded format=xelatex 2020.9.10)  14 FEB 2021 16:23
 entering extended mode
-**"C:/Users/Sekhara Pramod/Documents/Epic/Schadesagne.tex"
-("C:/Users/Sekhara Pramod/Documents/Epic/Schadesagne.tex"
+**"C:/Users/Sekhara Pramod/Documents/Epic/Schadesagne/Schadesagne.tex"
+("C:/Users/Sekhara Pramod/Documents/Epic/Schadesagne/Schadesagne.tex"
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-06-18> ("G:\New folder (2)\tex/latex/base\article.cl
 s"
@@ -547,7 +547,7 @@ LaTeX Font Warning: Font shape `TU/EBGaramond(0)/b/n' undefined
 
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 71.
+less on input line 69.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
